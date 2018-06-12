@@ -17,3 +17,13 @@ function multiply (a, b) {
 function divide (a, b) {
   return a / b;
 }
+
+// 5 
+function inc (n) {
+  return n++;
+}
+
+// 6 
+function dec (n) {
+  return n--;
+}
